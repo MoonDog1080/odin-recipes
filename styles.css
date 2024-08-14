@@ -15,7 +15,7 @@ h1#ac {
 }
 
 ul li {
-    font-weight: bold;
+    color: greenyellow;
 }
 
 .pink {
@@ -28,4 +28,15 @@ ul li {
 
 .blue {
     background-color: rgb(135,206,230);
+}
+
+p.apples {
+    font-style: italic;
+    background-color: bisque;
+}
+
+.lapple {
+    font-weight: bold;
+    background-color: aquamarine;
+
 }
