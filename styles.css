@@ -1,0 +1,10 @@
+* {
+    font-family: courier;
+}
+
+h1 {
+    font-family: courier, sans-serif;
+    background-color: aliceblue;
+    color: rgb(143,151,121);
+    text-align: center;
+}
