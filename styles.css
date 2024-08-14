@@ -8,3 +8,24 @@ h1 {
     color: rgb(143,151,121);
     text-align: center;
 }
+
+h1#ac {
+    background-color: white;
+    color: green
+}
+
+ul li {
+    font-weight: bold;
+}
+
+.pink {
+    background-color: brown;
+}
+
+.white {
+    background-color: #e5e5e5;
+}
+
+.blue {
+    background-color: rgb(135,206,230);
+}
