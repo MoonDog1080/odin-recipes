@@ -14,9 +14,22 @@ h1#ac {
     color: green
 }
 
-ul li {
+ul.home {
     color: greenyellow;
 }
+
+ul li {
+    background-color: bisque;
+}
+
+.one {
+    background-color: azure;
+}
+
+.three {
+    color: red;
+}
+
 
 .pink {
     background-color: brown;
@@ -39,4 +52,15 @@ p.apples {
     font-weight: bold;
     background-color: aquamarine;
 
+}
+
+.pizza {
+    color: red;
+    background-color: brown;
+}
+
+.what {
+    font-style: italic;
+    background-color: blueviolet;
+    color: blue;
 }
